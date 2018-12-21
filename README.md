@@ -14,4 +14,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Pagination information are not available in api. Only 5 records are available. And also not able to get data on this :- 
 https://my-json-server.typicode.com/banshilaldangi/ecommerce/products?brand_id=1,6
 
-![Home page](Screen Shot.png?raw=true "Home Page")
+### Home page
+![Home page](ScreenShot.png?raw=true "Home Page")
