@@ -1,0 +1,21 @@
+.active {
+    background: skyblue;
+}
+.content.container {
+    margin-top: 20px;
+        .filter {
+            width: 28%;
+            display: inline-block;
+            form {
+                .heading {
+                    color: skyblue;
+                }
+            }
+        }
+        .items {
+            margin-left: 2%;
+            width: 70%;
+            display: inline-block;
+        }
+    }
+

@@ -1,0 +1,15 @@
+<app-header></app-header>
+
+<div class="container" *ngIf="product">
+  <div class="row">
+    <div class="col-md-3">
+      <img src="../../assets/camera.jpg">
+    </div>
+    <div class="col-md-9 ">
+      <h2>{{product?.name}}</h2>
+      <h3>${{product?.price}}</h3>
+      <label>{{product?.description}}</label>
+      <h6>{{product?.created | date}}</h6>
+    </div>
+  </div>
+</div>
